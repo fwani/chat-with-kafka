@@ -1,4 +1,4 @@
-package pe.fwani;
+package pe.fwani.config;
 
 public class KafkaConstants {
     public static final String KAFKA_TOPIC = "test1";
